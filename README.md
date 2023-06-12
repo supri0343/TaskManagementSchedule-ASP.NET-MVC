@@ -8,3 +8,4 @@ To run this APP make sure you follow this instructure :
 4. APP will initial to create Table and insert data into your database. APP will initial to generate data username and password to login and will generate Schedule data with DueDate +30 min from now.
 5. You can Login with username :"USER" and password:"USER".
 6. In Schedule menu, if you have data with DueDate or time less than 15 min, app will show some alert. so you must to update data and check data if you already done to do that, and rapidly do that job if you not yet to do that job. 
+7. You can use seach box with filter.
